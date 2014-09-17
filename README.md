@@ -6,4 +6,10 @@ The script `fit-topicmodel.R` fits a topic model to a set of documents. It reads
 
 ## R Packages
 
-The script uses the R packages `tm` (http://cran.r-project.org/web/packages/tm/index.html) and `lda` (http://cran.r-project.org/web/packages/lda/index.html).
+The script uses the R packages `tm` for data preparation, `lda` for fitting the topic model, and `plyr` because it's awesome.
+
+http://cran.r-project.org/web/packages/tm/index.html
+
+http://cran.r-project.org/web/packages/lda/index.html
+
+http://cran.r-project.org/web/packages/plyr/index.html
